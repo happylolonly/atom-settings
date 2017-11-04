@@ -1,0 +1,41 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "de5525ed-37db-47f1-b680-c1924203c90e"
+  core:
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "wrap-guide"
+      "change-case"
+      "linter-sass-lint"
+      "linter-scss-lint"
+      "language-vue"
+      "package-sync"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+    ]
+    openEmptyEditorOnStart: false
+    telemetryConsent: "limited"
+  editor:
+    invisibles: {}
+    softWrap: true
+  "exception-reporting":
+    userId: "6d623b7b-b01b-ab98-d2fd-f583394705e0"
+  linter: {}
+  "linter-ui-default":
+    showPanel: true
+  minimap:
+    plugins:
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
+  "one-dark-ui": {}
+  welcome:
+    showOnStartup: false
